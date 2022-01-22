@@ -1,0 +1,11 @@
+[sl]
+intro=2
+current=5
+lives=5
+beat1=1
+beat3=1
+keycard=1
+61=1
+31=1
+32=1
+33=1
